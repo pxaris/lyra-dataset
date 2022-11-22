@@ -1,0 +1,588 @@
+{
+    "instruments": {
+        "Accordion": {
+            "description": "A box-shaped musical instrument of the bellows-driven free-reed aerophone type (producing sound as air flows past a reed in a frame), colloquially referred to as a squeezebox.",
+            "more-information": "https://en.wikipedia.org/wiki/Accordion"
+        },
+        "Baglamas": {
+            "description": "A plucked string instrument used in Greek music; it is a smaller version of the bouzouki pitched an octave higher (nominally D-A-D), with unison pairs on the four highest strings and an octave pair on the lower D.",
+            "more-information": "https://en.wikipedia.org/wiki/Baglamas"
+        },
+        "Bass": {
+            "description": "A musical instrument that produces tones in the low-pitched range C4- C2.",
+            "more-information": "https://en.wikipedia.org/wiki/Bass_(instrument)"
+        },
+        "Bassoon": {
+            "description": "A woodwind instrument in the double reed family, which plays in the tenor and bass ranges.",
+            "more-information": "https://en.wikipedia.org/wiki/Bassoon"
+        },
+        "Bouzouki": {
+            "description": "A musical instrument popular in Greece. It is a member of the long-necked lute family, with a round body with a flat top and a long neck with a fretted fingerboard.",
+            "more-information": "https://en.wikipedia.org/wiki/Bouzouki"
+        },
+        "Cello": {
+            "description": "A bowed (sometimes plucked and occasionally hit) string instrument of the violin family. Its four strings are usually tuned in perfect fifths: from low to high, C2, G2, D3 and A3.",
+            "more-information": "https://en.wikipedia.org/wiki/Cello"
+        },
+        "Cimbalom": {
+            "description": "A type of chordophone composed of a large, trapezoidal box on legs with metal strings stretched across its top and a damping pedal underneath.",
+            "more-information": "https://en.wikipedia.org/wiki/Cimbalom"
+        },
+        "Electric-guitar": {
+            "description": "A guitar that requires external amplification in order to be heard at typical performance volumes, unlike a standard acoustic guitar.",
+            "more-information": "https://en.wikipedia.org/wiki/Electric_guitar"
+        },
+        "Floghera": {
+            "description": "A type of flute used in Greek folk music. It is a simple end-blown bamboo flute without a fipple, which is played by directing a narrow air stream against its sharp, open upper end. It typically has seven finger holes.",
+            "more-information": "https://en.wikipedia.org/wiki/Floghera"
+        },
+        "Flute": {
+            "description": "A reedless wind instrument that produces its sound from the flow of air across an opening.",
+            "more-information": "https://en.wikipedia.org/wiki/Flute"
+        },
+        "Guitar": {
+            "description": "A fretted musical instrument that typically has six strings.",
+            "more-information": "https://en.wikipedia.org/wiki/Guitar"
+        },
+        "Kanonaki": {
+            "description": "A string instrument played either solo, or more often as part of an ensemble, in much of the Middle East, North Africa, West Africa, Central Asia, Armenia, and Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Qanun_(instrument)"
+        },
+        "Klarino": {
+            "description": "A Greek clarinet; a musical instrument in the woodwind family that has a nearly cylindrical bore and a flared bell, and uses a single reed to produce sound.",
+            "more-information": "https://en.wikipedia.org/wiki/Clarinet"
+        },
+        "Laouto": {
+            "description": "A long-neck fretted instrument of the lute family, found in Greece and Cyprus, and similar in appearance to the oud.",
+            "more-information": "https://en.wikipedia.org/wiki/Laouto"
+        },
+        "Lyra": {
+            "description": "A pear-shaped instrument with three to five strings, held upright and played by stopping the strings from the side with fingernails.",
+            "more-information": "https://en.wikipedia.org/wiki/Byzantine_lyra"
+        },
+        "Mandolin": {
+            "description": "A stringed musical instrument in the lute family and is generally plucked with a pick.",
+            "more-information": "https://en.wikipedia.org/wiki/Mandolin"
+        },
+        "Ney": {
+            "description": "An end-blown flute that figures prominently in Arabic music.",
+            "more-information": "https://en.wikipedia.org/wiki/Ney"
+        },
+        "Oud": {
+            "description": "A short-neck lute-type, pear-shaped, fretless stringed instrument, usually with 11 strings grouped in six courses, but some models have five or seven courses, with 10 or 13 strings respectively.",
+            "more-information": "https://en.wikipedia.org/wiki/Oud"
+        },
+        "Percussion": {
+            "description": "A musical instrument that is sounded by being struck or scraped by a beater including attached or enclosed beaters or rattles struck, scraped or rubbed by hand or struck against another similar instrument.",
+            "more-information": "https://en.wikipedia.org/wiki/Percussion_instrument"
+        },
+        "Piano": {
+            "description": "A stringed keyboard instrument in which the strings are struck by wooden hammers that are coated with a softer material.",
+            "more-information": "https://en.wikipedia.org/wiki/Piano"
+        },
+        "Santouri": {
+            "description": "A percussion-stringed instrument which consists of strings typically stretched over a trapezoidal resonant sound board.",
+            "more-information": "https://en.wikipedia.org/wiki/Hammered_dulcimer"
+        },
+        "Tambouras": {
+            "description": "A Greek traditional string instrument of Byzantine origin.",
+            "more-information": "https://en.wikipedia.org/wiki/Tambouras"
+        },
+        "Trombone": {
+            "description": "A musical instrument in the brass family.",
+            "more-information": "https://en.wikipedia.org/wiki/Trombone"
+        },
+        "Trumpet": {
+            "description": "A brass instrument commonly used in classical and jazz ensembles. ",
+            "more-information": "https://en.wikipedia.org/wiki/Trumpet"
+        },
+        "Tsampouna": {
+            "description": "A Greek musical instrument that is part of the bagpipe family.",
+            "more-information": "https://en.wikipedia.org/wiki/Tsampouna"
+        },
+        "Tsumbus": {
+            "description": "A Turkish stringed instrument of relatively modern origin.",
+            "more-information": "https://en.wikipedia.org/wiki/C%C3%BCmb%C3%BC%C5%9F"
+        },
+        "Tuba": {
+            "description": "The lowest-pitched musical instrument in the brass family.",
+            "more-information": "https://en.wikipedia.org/wiki/Tuba"
+        },
+        "Tzouras": {
+            "description": "A Greek stringed musical instrument related to the bouzouki.",
+            "more-information": "https://en.wikipedia.org/wiki/Tzouras"
+        },
+        "Violin": {
+            "description": "The smallest and thus highest-pitched instrument (soprano) in the violin family.",
+            "more-information": "https://en.wikipedia.org/wiki/Violin"
+        },
+        "Voice": {
+            "description": "Sound made by a human being using the vocal tract, including talking, singing, laughing, crying, screaming, shouting, humming or yelling.",
+            "more-information": "https://en.wikipedia.org/wiki/Human_voice"
+        },
+        "Whistling": {
+            "description": "It is achieved by creating a small opening with one's lips, usually after applying moisture (licking one's lips or placing water upon them) and then blowing or sucking air through the space.",
+            "more-information": "https://en.wikipedia.org/wiki/Whistling"
+        },
+        "Zournas": {
+            "description": "A double reed wind instrument played in central Eurasia, Western Asia and parts of North Africa.",
+            "more-information": "https://en.wikipedia.org/wiki/Zurna"
+        }
+    },
+    "genres": {
+        "Aegean": {
+            "description": "Music pieces originated in Aegean islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Arabic": {
+            "description": "Music pieces originated in Arab world.",
+            "more-information": "https://en.wikipedia.org/wiki/Arabic_music"
+        },
+        "Arrangement": {
+            "description": "An adaptation of a composition to fit a medium other than that for which it was originally written, while at the same time retaining the general character of the original.",
+            "more-information": "https://www.britannica.com/art/arrangement"
+        },
+        "Arvanitic": {
+            "description": "Music pieces that were composed and sung by Arvanites.",
+            "more-information": "https://en.wikipedia.org/wiki/Arvanites"
+        },
+        "Bulgarian": {
+            "description": "Music pieces originated in Bulgaria.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Bulgaria"
+        },
+        "Central-Greek": {
+            "description": "Music pieces originated in Central Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Cretan": {
+            "description": "Music pieces originated in Crete.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Cypriot": {
+            "description": "Music pieces originated in Cyprus.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Epirotic": {
+            "description": "Music pieces originated in Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Euboean": {
+            "description": "Music pieces originated in Euboea island.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Ionian": {
+            "description": "Music pieces originated in Ionian islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Laiko": {
+            "description": "A music genre that is composed in Greek language in accordance with the tradition of the Greek people.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Greece"
+        },
+        "Macedonian": {
+            "description": "Music pieces originated in Macedonia.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Melodized-poetry": {
+            "description": "Poems that have been subsequently set to music.",
+            "more-information": "https://en.wikipedia.org/wiki/List_of_songs_based_on_poems"
+        },
+        "Mikrasiatiko": {
+            "description": "Music pieces originated in Asia Minor.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Newer": {
+            "description": "Music pieces that were composed during the last decades.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Greece"
+        },
+        "Nisiotiko": {
+            "description": "Music pieces originated in Greek islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Greece"
+        },
+        "Peloponnesian": {
+            "description": "Music pieces originated in Peloponnese.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Politiko": {
+            "description": "Music pieces originated in 'Poli', a name used for Constantinople (Istanbul).",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Polyphonic": {
+            "description": "Songs that consist of two or more simultaneous lines of independent vocal melody.",
+            "more-information": "https://en.wikipedia.org/wiki/Polyphony"
+        },
+        "Pontian": {
+            "description": "Music pieces originated in Pontus.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Rebetiko": {
+            "description": "The urban popular song of the Greeks, especially the poorest, from the late 19th century to the 1950s.",
+            "more-information": "https://en.wikipedia.org/wiki/Rebetiko"
+        },
+        "Romanian": {
+            "description": "Music pieces originated in Romania.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Romania"
+        },
+        "Sarakatsani": {
+            "description": "Music pieces that were composed and sung by Sarakatsani.",
+            "more-information": "https://en.wikipedia.org/wiki/Sarakatsani"
+        },
+        "Southern-Italian": {
+            "description": "Music pieces originated in Southern Italy.",
+            "more-information": "https://en.wikipedia.org/wiki/Italian_folk_music"
+        },
+        "Thessalic": {
+            "description": "Music pieces originated in Thessaly.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Thracian": {
+            "description": "Music pieces originated in Thrace.",
+            "more-information": "https://en.wikipedia.org/wiki/Greek_traditional_music"
+        },
+        "Traditional": {
+            "description": "Traditional folk music has been defined in several ways: as music transmitted orally, music with unknown composers, music that is played on traditional instruments, music about cultural or national identity, music that changes between generations, music associated with a people's folklore, or music performed by custom over a long period of time.",
+            "more-information": "https://en.wikipedia.org/wiki/Folk_music"
+        },
+        "Turkish": {
+            "description": "Music pieces originated in Turkey.",
+            "more-information": "https://en.wikipedia.org/wiki/Turkish_folk_music"
+        },
+        "Urban-folk": {
+            "description": "Music pieces that were composed and sung at big city centres before the development of the Rebetiko and Laiko genres.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Greece"
+        },
+        "Urban-light": {
+            "description": "A Greek version of the international urban music of the early 20th century.",
+            "more-information": "https://en.wikipedia.org/wiki/Music_of_Greece"
+        },
+        "Vlachic": {
+            "description": "Music pieces that were composed and sung by Vlachs.",
+            "more-information": "https://en.wikipedia.org/wiki/Vlachs"
+        }
+    },
+    "place": {
+        "Aegean-sea": {
+            "description": "An elongated embayment of the Mediterranean Sea between Europe and Asia.",
+            "more-information": "https://en.wikipedia.org/wiki/Aegean_Sea"
+        },
+        "Aegina": {
+            "description": "One of the Saronic Islands of Greece in the Saronic Gulf, 27km from Athens.",
+            "more-information": "https://en.wikipedia.org/wiki/Aegina"
+        },
+        "Aivali": {
+            "description": "A seaside town on the northwestern Aegean coast of Turkey.",
+            "more-information": "https://en.wikipedia.org/wiki/Ayval%C4%B1k"
+        },
+        "Amorgos": {
+            "description": "The easternmost island of the Cyclades island group and the nearest island to the neighboring Dodecanese island group in Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Amorgos"
+        },
+        "Andros": {
+            "description": "The northernmost island of the Greek Cyclades archipelago.",
+            "more-information": "https://en.wikipedia.org/wiki/Andros"
+        },
+        "Arachova": {
+            "description": "A mountain town located in Central Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Arachova"
+        },
+        "Arcadia": {
+            "description": "A region in the central Peloponnese.",
+            "more-information": "https://en.wikipedia.org/wiki/Arcadia_(region)"
+        },
+        "Arta": {
+            "description": "A city in northwestern Greece, capital of the regional unit of Arta, which is part of Epirus region.",
+            "more-information": "https://en.wikipedia.org/wiki/Arta,_Greece"
+        },
+        "Asia-minor": {
+            "description": "A large peninsula in Western Asia and the westernmost protrusion of the Asian continent.",
+            "more-information": "https://en.wikipedia.org/wiki/Anatolia"
+        },
+        "Bulgaria": {
+            "description": "A country in Southeast Europe.",
+            "more-information": "https://en.wikipedia.org/wiki/Bulgaria"
+        },
+        "Cappadocia": {
+            "description": "A historical region in Central Anatolia.",
+            "more-information": "https://en.wikipedia.org/wiki/Cappadocia"
+        },
+        "Central-Greece": {
+            "description": "A region that includes the southern part of the Greek mainland (sans the Peloponnese).",
+            "more-information": "https://en.wikipedia.org/wiki/Central_Greece"
+        },
+        "Cephalonia": {
+            "description": "The largest of the Ionian Islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Cephalonia"
+        },
+        "Chios": {
+            "description": "The fifth largest Greek island, situated in the northern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Chios"
+        },
+        "Corfu": {
+            "description": "A Greek island in the Ionian Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Corfu"
+        },
+        "Crete": {
+            "description": "The largest and most populous of the Greek islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Crete"
+        },
+        "Cyprus": {
+            "description": "An island country in the eastern Mediterranean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Cyprus"
+        },
+        "Deropolis": {
+            "description": "A municipality located at the Greek-Albanian border.",
+            "more-information": "https://en.wikipedia.org/wiki/Dropull"
+        },
+        "Drama": {
+            "description": "A city and municipality in Macedonia, northeastern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Drama,_Greece"
+        },
+        "East-Crete": {
+            "description": "The eastern part of the Crete island.",
+            "more-information": "https://en.wikipedia.org/wiki/Crete"
+        },
+        "Egypt": {
+            "description": "A transcontinental country spanning the northeast corner of Africa and southwest corner of Asia via a land bridge formed by the Sinai Peninsula.",
+            "more-information": "https://en.wikipedia.org/wiki/Egypt"
+        },
+        "Epirus": {
+            "description": "Epirus is a geographical and historical region in southeastern Europe.",
+            "more-information": "https://en.wikipedia.org/wiki/Epirus"
+        },
+        "Euboea": {
+            "description": "The second-largest Greek island in area and population, after Crete.",
+            "more-information": "https://en.wikipedia.org/wiki/Euboea"
+        },
+        "Folegandros": {
+            "description": "A small island in the Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Folegandros"
+        },
+        "Grevena": {
+            "description": "A town and municipality in Western Macedonia, northern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Grevena"
+        },
+        "Halki": {
+            "description": "An island and municipality in the Dodecanese archipelago in the Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Halki_(Greece)"
+        },
+        "Halkidiki": {
+            "description": "A peninsula and regional unit of Greece, part of the region of Central Macedonia, in the geographic region of Macedonia in Northern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Chalkidiki"
+        },
+        "Himara": {
+            "description": "A municipality and region in southern Albania.",
+            "more-information": "https://en.wikipedia.org/wiki/Himara"
+        },
+        "Icaria": {
+            "description": "An island in the Aegean Sea, 10 nautical miles southwest of Samos.",
+            "more-information": "https://en.wikipedia.org/wiki/Icaria"
+        },
+        "Ionian-sea": {
+            "description": "An elongated bay of the Mediterranean Sea that is connected to the Adriatic Sea to the north.",
+            "more-information": "https://en.wikipedia.org/wiki/Ionian_Sea"
+        },
+        "Kalavryta": {
+            "description": "A town in the mountainous north-central part of the Peloponnese region.",
+            "more-information": "https://en.wikipedia.org/wiki/Kalavryta"
+        },
+        "Kalymnos": {
+            "description": "An island and municipality in the southeastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Kalymnos"
+        },
+        "Karpathos": {
+            "description": "The second largest of the Dodecanese islands, in the southeastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Karpathos"
+        },
+        "Kasos": {
+            "description": "An island in the Dodecanese, in the southeastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Kasos"
+        },
+        "Kastoria": {
+            "description": "A city in northern Greece in the region of Western Macedonia.",
+            "more-information": "https://en.wikipedia.org/wiki/Kastoria"
+        },
+        "Kea": {
+            "description": "An island in the Cyclades archipelago in the Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Kea_(island)"
+        },
+        "Kilkis": {
+            "description": "A city in Central Macedonia, Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Kilkis"
+        },
+        "Konitsa": {
+            "description": "A town in Epirus, Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Konitsa"
+        },
+        "Kos": {
+            "description": "A Greek island, part of the Dodecanese island chain in the southeastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Kos"
+        },
+        "Kozani": {
+            "description": "A city in northern Greece, capital of Kozani regional unit and of Western Macedonia.",
+            "more-information": "https://en.wikipedia.org/wiki/Kozani"
+        },
+        "Kythira": {
+            "description": "An island in Greece lying opposite the south-eastern tip of the Peloponnese peninsula.",
+            "more-information": "https://en.wikipedia.org/wiki/Kythira"
+        },
+        "Kythnos": {
+            "description": "An island and municipality in the Western Cyclades.",
+            "more-information": "https://en.wikipedia.org/wiki/Kythnos"
+        },
+        "Lebanon": {
+            "description": "A country in Western Asia.",
+            "more-information": "https://en.wikipedia.org/wiki/Lebanon"
+        },
+        "Lefkada": {
+            "description": "An island in the Ionian Sea on the west coast of Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Lefkada"
+        },
+        "Lemnos": {
+            "description": "A Greek island in the northern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Lemnos"
+        },
+        "Leros": {
+            "description": "An island and municipality in the Dodecanese in the southern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Leros"
+        },
+        "Lesbos": {
+            "description": "A Greek island located in the northeastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Lesbos"
+        },
+        "Macedonia": {
+            "description": "A geographic region in Northern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Macedonia_(Greece)"
+        },
+        "Mesologgi": {
+            "description": "A town in western Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Missolonghi"
+        },
+        "Metsovo": {
+            "description": "A town in Epirus, in the mountains of Pindus in northern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Metsovo"
+        },
+        "Mykonos": {
+            "description": "A Greek island, part of the Cyclades.",
+            "more-information": "https://en.wikipedia.org/wiki/Mykonos"
+        },
+        "Napoli": {
+            "description": "The regional capital of Campania and the third-largest city of Italy, after Rome and Milan.",
+            "more-information": "https://en.wikipedia.org/wiki/Naples"
+        },
+        "Naxos": {
+            "description": "The largest island of the Cyclades.",
+            "more-information": "https://en.wikipedia.org/wiki/Naxos"
+        },
+        "Nisyros": {
+            "description": "A volcanic island that is part of the Dodecanese in the Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Nisyros"
+        },
+        "Oinousses": {
+            "description": "A cluster of 1 larger and 8 smaller islands located nearby Chios island in the Aegean sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Oinousses"
+        },
+        "Paros": {
+            "description": "An island in the central Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Paros"
+        },
+        "Peloponnese": {
+            "description": "A peninsula and geographic region in southern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Peloponnese"
+        },
+        "Pogoni": {
+            "description": "A municipality in the Ioannina regional unit, Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Pogoni"
+        },
+        "Poli": {
+            "description": "A shortened version of Konstantinoupolis (Constantinople), medieval name for Istanbul.",
+            "more-information": "https://en.wikipedia.org/wiki/Istanbul"
+        },
+        "Pontus": {
+            "description": "A region on the southern coast of the Black Sea, located in the modern-day eastern Black Sea Region of Turkey.",
+            "more-information": "https://en.wikipedia.org/wiki/Pontus_(region)"
+        },
+        "Preveza": {
+            "description": "A city in the region of Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Preveza"
+        },
+        "Rhodes": {
+            "description": "The largest and the capital of the Dodecanese islands.",
+            "more-information": "https://en.wikipedia.org/wiki/Rhodes"
+        },
+        "Romania": {
+            "description": "A country located at the crossroads of Central, Eastern, and Southeast Europe.",
+            "more-information": "https://en.wikipedia.org/wiki/Romania"
+        },
+        "Samos": {
+            "description": "An island in the eastern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Samos"
+        },
+        "Samothrace": {
+            "description": "An island in the northern Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Samothrace"
+        },
+        "Serifos": {
+            "description": "An island in the Aegean Sea, located in the western Cyclades.",
+            "more-information": "https://en.wikipedia.org/wiki/Serifos"
+        },
+        "Serres": {
+            "description": "A city in Macedonia, Greece, capital of the Serres regional unit and second largest city in the region of Central Macedonia, after Thessaloniki.",
+            "more-information": "https://en.wikipedia.org/wiki/Serres"
+        },
+        "Sifnos": {
+            "description": "An island in the Cyclades island group.",
+            "more-information": "https://en.wikipedia.org/wiki/Sifnos"
+        },
+        "Skyros": {
+            "description": "The southernmost island of the Sporades, an archipelago in the Aegean Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Skyros"
+        },
+        "Smyrni": {
+            "description": "A city located at a strategic point on the Aegean coast of Anatolia. Its name since about 1930 is Izmir.",
+            "more-information": "https://en.wikipedia.org/wiki/Smyrna"
+        },
+        "Southern-Italy": {
+            "description": "A macroregion of the Italian Republic consisting of its southern half.",
+            "more-information": "https://en.wikipedia.org/wiki/Southern_Italy"
+        },
+        "Syrrako": {
+            "description": "A village and a former community in the Ioannina regional unit, Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Syrrako"
+        },
+        "Thessaloniki": {
+            "description": "The second-largest city in Greece and the capital of the geographic region of Macedonia.",
+            "more-information": "https://en.wikipedia.org/wiki/Thessaloniki"
+        },
+        "Thessaly": {
+            "description": "A geographic region that lies in northern Greece.",
+            "more-information": "https://en.wikipedia.org/wiki/Thessaly"
+        },
+        "Thrace": {
+            "description": "A geographical and historical region in Southeast Europe.",
+            "more-information": "https://en.wikipedia.org/wiki/Thrace"
+        },
+        "Trikala": {
+            "description": "A city in northwestern Thessaly.",
+            "more-information": "https://en.wikipedia.org/wiki/Trikala"
+        },
+        "Turkey": {
+            "description": "A transcontinental country located mainly on the Anatolian Peninsula in Western Asia.",
+            "more-information": "https://en.wikipedia.org/wiki/Turkey"
+        },
+        "Tzoumerka": {
+            "description": "A municipality in the Ioannina regional unit, Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Tzoumerka"
+        },
+        "West-Crete": {
+            "description": "The western part of the Crete island.",
+            "more-information": "https://en.wikipedia.org/wiki/Crete"
+        },
+        "Zagori": {
+            "description": "A region and a municipality in the Pindus mountains in Epirus.",
+            "more-information": "https://en.wikipedia.org/wiki/Zagori"
+        },
+        "Zakynthos": {
+            "description": "An island in the Ionian Sea.",
+            "more-information": "https://en.wikipedia.org/wiki/Zakynthos"
+        }
+    }
+}

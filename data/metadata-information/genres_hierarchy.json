@@ -1,0 +1,51 @@
+{
+    "Laiko": [
+        "Melodized-poetry"
+    ],
+    "Newer": [
+        "Melodized-poetry",
+        "Urban-light",
+        "Arrangement"
+    ],
+    "Rebetiko": [
+        "Arrangement",
+        "Mikrasiatiko",
+        "Politiko",
+        "Cretan"
+    ],
+    "Traditional": [
+        "Nisiotiko",
+        "Aegean",
+        "Thracian",
+        "Central-Greek",
+        "Macedonian",
+        "Ionian",
+        "Mikrasiatiko",
+        "Epirotic",
+        "Southern-Italian",
+        "Thessalic",
+        "Peloponnesian",
+        "Vlachic",
+        "Polyphonic",
+        "Cretan",
+        "Politiko",
+        "Pontian",
+        "Sarakatsani",
+        "Euboean",
+        "Arvanitic",
+        "Arabic",
+        "Romanian",
+        "Cypriot",
+        "Turkish",
+        "Arrangement",
+        "Bulgarian"
+    ],
+    "Urban-folk": [
+        "Urban-light",
+        "Mikrasiatiko",
+        "Epirotic",
+        "Cretan",
+        "Nisiotiko",
+        "Aegean"
+    ]
+}

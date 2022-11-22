@@ -1,0 +1,94 @@
+{
+    "Aegean-sea": [
+        "Icaria",
+        "Lesbos",
+        "Kasos",
+        "Chios",
+        "Kalymnos",
+        "Sifnos",
+        "Folegandros",
+        "Amorgos",
+        "Naxos",
+        "Samos",
+        "Rhodes",
+        "Mykonos",
+        "Paros",
+        "Andros",
+        "Kos",
+        "Samothrace",
+        "Leros",
+        "Skyros",
+        "Aegina",
+        "Kea",
+        "Halki",
+        "Kythnos",
+        "Karpathos",
+        "Lemnos",
+        "Serifos",
+        "Oinousses",
+        "Nisyros"
+    ],
+    "Asia-minor": [
+        "Smyrni",
+        "Aivali",
+        "Poli",
+        "Cappadocia"
+    ],
+    "Bulgaria": [],
+    "Central-Greece": [
+        "Mesologgi",
+        "Arachova"
+    ],
+    "Crete": [
+        "West-Crete",
+        "East-Crete"
+    ],
+    "Cyprus": [],
+    "Egypt": [],
+    "Epirus": [
+        "Deropolis",
+        "Metsovo",
+        "Arta",
+        "Zagori",
+        "Pogoni",
+        "Syrrako",
+        "Himara",
+        "Konitsa",
+        "Preveza",
+        "Tzoumerka"
+    ],
+    "Euboea": [],
+    "Ionian-sea": [
+        "Corfu",
+        "Zakynthos",
+        "Cephalonia",
+        "Lefkada"
+    ],
+    "Kythira": [],
+    "Lebanon": [],
+    "Macedonia": [
+        "Serres",
+        "Grevena",
+        "Halkidiki",
+        "Kozani",
+        "Drama",
+        "Kilkis",
+        "Kastoria",
+        "Thessaloniki"
+    ],
+    "None": [],
+    "Peloponnese": [
+        "Kalavryta",
+        "Arcadia"
+    ],
+    "Pontus": [],
+    "Romania": [],
+    "Southern-Italy": [
+        "Napoli"
+    ],
+    "Thessaly": [
+        "Trikala"
+    ],
+    "Thrace": [],
+    "Turkey": []
+}
