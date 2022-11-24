@@ -19,7 +19,28 @@
     - `places_hierarchy.json` - hierarchical relationships of each place
     - `vocabulary.json` - vocabulary with the definitions of the terms evident in the dataset 
 
-- `mel-spectrograms/` - the mel-spectrograms of all music pieces following the naming convention `{id}.npy`.  
+- `mel-spectrograms/` - the mel-spectrograms of all music pieces following the naming convention `{id}.npy` can be downloaded from [here](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing).  
+
+
+## Using the trained models for inference
+
+### Requirements
+
+* [FFmpeg](https://ffmpeg.org/download.html) 
+* Python 3.8 or later
+* Create virtual environment and install requirements
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Get inference results
+
+1. Download trained models from [here](https://drive.google.com/file/d/1nFu3G4WX8OAtiSX4UlkqI0KvfW2FIn0u/view?usp=sharing) and put them under `models/` directory.
+2. Place an `input.wav` file under `inference/` or use a different name and adjust `INPUT_FILE` at `run_inference.py` accordingly.
+3. Run: `python inference/run_inference.py`
+4. The inference results will be printed in the terminal.
 
 
 ## Citing the dataset
