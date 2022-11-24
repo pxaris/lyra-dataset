@@ -22,7 +22,7 @@
 - `mel-spectrograms/` - the mel-spectrograms of all music pieces following the naming convention `{id}.npy` can be downloaded from [here](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing).  
 
 
-## Using the trained models for inference
+## Using the trained models for [`inference`](inference)
 
 ### Requirements
 
