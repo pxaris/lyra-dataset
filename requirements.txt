@@ -1,0 +1,7 @@
+numpy==1.23.5
+deep-audio-features==0.2.18
+torch==1.13.0
+imblearn==0.0
+matplotlib==3.6.2
+librosa==0.9.2
+tqdm==4.64.1
