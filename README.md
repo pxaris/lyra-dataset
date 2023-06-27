@@ -4,7 +4,20 @@
 
 ## Mel-spectrograms
 
-The mel-spectrograms that were used in the dataset introduction paper, generated with parameters:
+The mel-spectrograms of the 1570 pieces, that were generated using the parameters:
+```
+audio sampling-rate (sr): 16000
+length of the FFT window (n_fft): 512
+number of samples between successive frames (hop_length): 256
+Number of mel filterbanks (n_mels): 128
+Minimum frequency (f_min): 0.0
+Maximum frequency (f_max): 8000
+```
+can be **downloaded** at: [mel_spectrograms.zip](https://drive.google.com/file/d/1xMQIbi7Rkugr0gwtitIDSf2yQHbb-L4v/view?usp=sharing)
+
+---
+
+The mel-spectrograms that were used in the dataset introduction paper and were generated with the parameters:
 ```
 audio sampling-rate (sr): 8000
 length of the FFT window (n_fft): 400
