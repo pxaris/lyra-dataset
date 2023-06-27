@@ -13,7 +13,7 @@ Number of mel filterbanks (n_mels): 128
 Minimum frequency (f_min): 0.0
 Maximum frequency (f_max): 8000
 ```
-can be **downloaded** at: [mel-spectrograms.zip](https://drive.google.com/file/d/1xMQIbi7Rkugr0gwtitIDSf2yQHbb-L4v/view?usp=sharing)
+can be **downloaded** at: [`mel-spectrograms.zip`](https://drive.google.com/file/d/1xMQIbi7Rkugr0gwtitIDSf2yQHbb-L4v/view?usp=sharing) (7.8 GB)
 
 ---
 
@@ -24,7 +24,7 @@ length of the FFT window (n_fft): 400
 number of samples between successive frames (hop_length): 400
 Number of mel filterbanks (n_mels): 128
 ```
-can be **downloaded** at: [mel-spectrograms_initial.zip](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing)
+can be **downloaded** at: [`mel-spectrograms_initial.zip`](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing) (2.1 GB)
 
 
 ## Structure
