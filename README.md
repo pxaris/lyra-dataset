@@ -2,6 +2,17 @@
 
 **Lyra** is a dataset for Greek Traditional and Folk music that includes 1570 pieces, summing in around 80 hours of data. The dataset incorporates YouTube timestamped links for retrieving audio and video, along with rich metadata information with regards to instrumentation, geography and genre, among others.
 
+## Mel-spectrograms
+
+The mel-spectrograms that were used in the dataset introduction paper, generated with parameters:
+```
+audio sampling-rate (sr): 8000
+length of the FFT window (n_fft): 400
+number of samples between successive frames (hop_length): 400
+Number of mel filterbanks (n_mels): 128
+```
+can be **downloaded** at: [mel_spectrograms_initial.zip](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing)
+
 
 ## Structure
 
@@ -19,7 +30,7 @@
     - `places_hierarchy.json` - hierarchical relationships of each place
     - `vocabulary.json` - vocabulary with the definitions of the terms evident in the dataset 
 
-- `mel-spectrograms/` - the mel-spectrograms of all music pieces following the naming convention `{id}.npy` can be downloaded from [here](https://drive.google.com/file/d/10SH2gfYSf_qUVPUHA3O1lgq4C24k38I0/view?usp=sharing).  
+- `mel-spectrograms/` - the mel-spectrograms of all music pieces following the naming convention `{id}.npy`
 
 
 ## Using the trained models for [`inference`](inference)
